@@ -1,0 +1,1 @@
+web_scraping - Process of extracting information from websites using automated softwares or scripts to scrape the html,css and javascript pages.
