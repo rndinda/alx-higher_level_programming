@@ -1,4 +1,4 @@
-
+#!/usr/bin/node
 // reads and prints 
 
 const fs = require('fs')

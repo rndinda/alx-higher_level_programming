@@ -1,4 +1,4 @@
-
+#!/usr/bin/node
 const request = require('request');
 
 request('https://alx-intranet.hbtn.io/status',function(err,response){
