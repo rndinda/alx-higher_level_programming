@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-fs.writeFile('./text_file/filetwo.txt', 'Oyaa,andika hii','utf-8',(error)=>{
+fs.writeFile('./text_file/my_file.txt', 'Python is cool','utf-8',(error)=>{
   if(error){
     console.log(error);
   }
